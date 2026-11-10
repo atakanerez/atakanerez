@@ -1,16 +1,17 @@
-## Hi there 👋
+# Atakan Erez
 
-<!--
-**atakanerez/atakanerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in e-commerce operations and IT support, and build web tools around workflows I know firsthand.
 
-Here are some ideas to get you started:
+[Portfolio](https://atakanerez.tr) · [LinkedIn](https://www.linkedin.com/in/atakan-erez)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **FORMA** — An AI-assisted fitness coaching platform for workout planning and client progress tracking.
+- **Kariyer Atelier** — A web platform for preparing CVs and organizing job applications.
+- **FitZen** — An Android app for fitness and activity tracking, built with Java and Firebase.
+
+## Areas of interest
+
+- Marketplace operations, product catalogs, and Shopify workflows
+- ERP and end-user support, Windows, and network troubleshooting
+- AI-assisted web applications and process automation
