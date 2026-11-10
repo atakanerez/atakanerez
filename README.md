@@ -30,6 +30,21 @@ TypeScript checks, production build, and deployment passed for v17. Live end-to-
 
 FitZen is an Android fitness project built with **Java, Android Studio, and Firebase**. Its documented scope includes recording daily activity, creating exercise plans, and tracking progress; reminders were part of the project goals. The project was presented at Istanbul Gelisim University. See the Projects section of [my portfolio](https://atakanerez.tr/) for the public project overview.
 
+## Tools & Technologies
+
+| Area | Tools | Typical work |
+| --- | --- | --- |
+| Marketplace operations | Shopify, Entegra, Amazon Seller Central, Trendyol, Hepsiburada, n11 | Product listings, variants, pricing, inventory, and orders |
+| Reporting and ERP | Microsoft Excel, Google Sheets, SAP, Logo, Nebim | Sales and stock reporting, production planning, and ERP user support |
+| IT support | Windows, Windows Server, Active Directory, Microsoft 365 | User accounts, device setup, and troubleshooting |
+| Infrastructure internship | FortiGate, VMware, Veeam Backup | Assisted with network review, virtualization, and backup workflows |
+| Development | Python, TypeScript, SQLite, Java, Android Studio, Firebase, OpenAI API | Catalog validation, FORMA, FitZen, and Kariyer Atelier |
+| Design and content | Adobe Photoshop, Canva, CapCut, ChatGPT | Product images, campaign assets, short videos, and product copy |
+
+## Weekly mini projects
+
+- **01 · [Marketplace Catalog QA](https://github.com/atakanerez/marketplace-catalog-qa)** — Python CLI that flags duplicate SKUs and variants, invalid prices, negative stock, and missing titles before bulk uploads. Includes synthetic CSV data and instructions.
+
 ## Areas of interest
 
 - Marketplace operations, product catalogs, and Shopify workflows
