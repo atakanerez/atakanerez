@@ -4,13 +4,15 @@ I work in e-commerce operations and IT support, and build web tools around workf
 
 [Portfolio](https://atakanerez.tr/) · [LinkedIn](https://www.linkedin.com/in/atakan-erez)
 
-## Selected projects
+## Projects
 
 | Project | Focus | Details |
 | --- | --- | --- |
 | **FORMA** | Training plans, progress tracking, and feedback between coaches and clients. | [Project case study and test results](https://github.com/atakanerez/forma-showcase) |
 | **Kariyer Atelier** | CV editing, tailoring, and job application tracking. | [Development notes](#kariyer-atelier) |
 | **FitZen** | Android fitness and activity tracking project. | [Project notes](#fitzen) |
+| **Stock Reconciliation** | Compares warehouse and sales channel inventory by SKU, highlighting quantity discrepancies and missing records. | [Source code and example report](https://github.com/atakanerez/stock-reconciliation) |
+| **Marketplace Catalog QA** | Validates product feeds before bulk upload and flags duplicate SKUs, invalid prices, and missing titles. | [Source code and validation examples](https://github.com/atakanerez/marketplace-catalog-qa) |
 
 ## Kariyer Atelier
 
@@ -40,11 +42,6 @@ FitZen is an Android fitness project built with **Java, Android Studio, and Fire
 | Infrastructure internship | FortiGate, VMware, Veeam Backup | Assisted with network review, virtualization, and backup workflows |
 | Development | Python, TypeScript, SQLite, Java, Android Studio, Firebase, OpenAI API | Catalog validation, FORMA, FitZen, and Kariyer Atelier |
 | Design and content | Adobe Photoshop, Canva, CapCut, ChatGPT | Product images, campaign assets, short videos, and product copy |
-
-## Weekly mini projects
-
-- **01 · [Marketplace Catalog QA](https://github.com/atakanerez/marketplace-catalog-qa)** — Python CLI that flags duplicate SKUs and variants, invalid prices, negative stock, and missing titles before bulk uploads. Includes synthetic CSV data and instructions.
-- **02 · [Stock Reconciliation](https://github.com/atakanerez/stock-reconciliation)** — Python CLI that compares warehouse and sales channel stock by SKU. Includes synthetic CSVs, an example report, and five tests.
 
 ## Areas of interest
 
