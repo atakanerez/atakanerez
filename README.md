@@ -44,6 +44,7 @@ FitZen is an Android fitness project built with **Java, Android Studio, and Fire
 ## Weekly mini projects
 
 - **01 · [Marketplace Catalog QA](https://github.com/atakanerez/marketplace-catalog-qa)** — Python CLI that flags duplicate SKUs and variants, invalid prices, negative stock, and missing titles before bulk uploads. Includes synthetic CSV data and instructions.
+- **02 · [Stock Reconciliation](https://github.com/atakanerez/stock-reconciliation)** — Python CLI that compares warehouse and sales channel stock by SKU. Includes synthetic CSVs, an example report, and five tests.
 
 ## Areas of interest
 
