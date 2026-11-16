@@ -1,6 +1,6 @@
 # Atakan Erez
 
-I work in e-commerce operations and IT support, and build web tools around workflows I know firsthand.
+I support end users, Windows systems, and business applications. My experience includes Windows Server, Active Directory, Microsoft 365, network troubleshooting, and ERP user support. My background in production planning and e-commerce helps me understand the business workflows behind support requests.
 
 [Portfolio](https://atakanerez.tr/) · [LinkedIn](https://www.linkedin.com/in/atakan-erez)
 
@@ -36,15 +36,17 @@ FitZen is an Android fitness project built with **Java, Android Studio, and Fire
 
 | Area | Tools | Typical work |
 | --- | --- | --- |
-| Marketplace operations | Shopify, Entegra, Amazon Seller Central, Trendyol, Hepsiburada, n11 | Product listings, variants, pricing, inventory, and orders |
-| Reporting and ERP | Microsoft Excel, Google Sheets, SAP, Logo, Nebim | Sales and stock reporting, production planning, and ERP user support |
-| IT support | Windows, Windows Server, Active Directory, Microsoft 365 | User accounts, device setup, and troubleshooting |
+| IT and systems support | Windows, Windows Server, Active Directory, Microsoft 365, DNS, DHCP, TCP/IP | User accounts and permissions, device setup, remote support, and network troubleshooting |
+| ERP and application support | SAP, Logo, Nebim | ERP user support, access permissions, and application issue follow-up |
 | Infrastructure internship | FortiGate, VMware, Veeam Backup | Assisted with network review, virtualization, and backup workflows |
+| Reporting and planning | Microsoft Excel, Google Sheets | Sales and stock reporting and production planning |
+| Marketplace operations | Shopify, Entegra, Amazon Seller Central, Trendyol, Hepsiburada, n11 | Product listings, variants, pricing, inventory, and orders |
 | Development | Python, TypeScript, SQLite, Java, Android Studio, Firebase, OpenAI API | Catalog validation, FORMA, FitZen, and Kariyer Atelier |
 | Design and content | Adobe Photoshop, Canva, CapCut, ChatGPT | Product images, campaign assets, short videos, and product copy |
 
 ## Areas of interest
 
+- Windows systems, end-user support, and network troubleshooting
+- ERP support and business application workflows
 - Marketplace operations, product catalogs, and Shopify workflows
-- ERP and end-user support, Windows, and network troubleshooting
 - AI-assisted web applications and process automation
