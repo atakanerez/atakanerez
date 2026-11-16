@@ -8,6 +8,7 @@ I support end users, Windows systems, and business applications. My experience i
 
 | Project | Focus | Details |
 | --- | --- | --- |
+| **Windows Support Lab** | Diagnoses a Windows domain discovery failure using synthetic DNS and Active Directory evidence. | [Support case and tested Python tool](https://github.com/atakanerez/windows-support-lab) |
 | **FORMA** | Training plans, progress tracking, and feedback between coaches and clients. | [Project case study and test results](https://github.com/atakanerez/forma-showcase) |
 | **Kariyer Atelier** | CV editing, tailoring, and job application tracking. | [Development notes](#kariyer-atelier) |
 | **FitZen** | Android fitness and activity tracking project. | [Project notes](#fitzen) |
